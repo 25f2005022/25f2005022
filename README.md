@@ -1,4 +1,4 @@
-## Hello! I am Saumya Pandey.
+<img width="90" height="90" alt="image" src="https://github.com/user-attachments/assets/e1fae162-59fc-43a5-ad13-f6bd735e7515" /><img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/9bea0d3a-3e58-49ba-a9eb-85509c7a63cd" />## Hello! I am Saumya Pandey.
 
 - 🎓 **Sophomore at IITM** – BS Degree in Data Science and Applications.
 - 🚀 **Tech Learner** – Passionate about exploring new technologies and building skills.
@@ -41,3 +41,4 @@ I am currently a **Sophomore at IIT Madras**, pursuing the BS Degree in Data Sci
 
 - 💼 **LinkedIn:** [Saumya Pandey](https://linkedin.com)
 - 🎥 **YouTube:** [Catalytic Dhairya](https://www.youtube.com/@CatalyticDhairyaCya)
+- ⭐ **Primary GitHub Profile:**  [GitHub](https://github.com/saumyapandey32026)
